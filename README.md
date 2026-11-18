@@ -5,6 +5,7 @@ I'm a product manager finishing a Master of Behavioral and Decision Sciences at 
 **Projects**
 
 - [ai-shopping-agents-study](https://github.com/purviproduct/ai-shopping-agents-study): gpt-5-mini wrote that a seller's past failures didn't apply, then counted them anyway, in 159 of 300 runs. In a simulation of a 2026 theory paper, recording why a check failed cut good sellers lost from 50% to 2%, but only because shoppers' answers varied.
+- [ai-adversarial-debate-study](https://github.com/purviproduct/ai-adversarial-debate-study): a gpt-5-mini agent told to argue for a wrong number pulled an honest gpt-5-mini to within 2× of that number in 46 of 60 debates (pilot). Wrong numbers below the honest answer worked better than ones above it.
 - [ai-behavior-experiments](https://github.com/purviproduct/ai-behavior-experiments): pilots on how LLM agents respond to anchors, store tricks and teammates, including the nulls. One example: an agent's own estimate moved 77% of the way toward a colleague's number.
 
 **Links**
